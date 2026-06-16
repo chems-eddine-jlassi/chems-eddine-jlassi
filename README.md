@@ -21,6 +21,6 @@ AWS Practitioner · GitLab Associate · Scrum Master · Scrum Foundation Profess
 Arabic (native) · French (B2) · English (C1)
 
 ### Contact
-Email: chems.eddine.jlassi.pro@gmail.com
-LinkedIn: linkedin.com/in/chams-jlassi
+Email: chems.eddine.jlassi.pro@gmail.com ,
+LinkedIn: linkedin.com/in/chams-jlassi  ,
 GitLab: gitlab.com/chamsi
