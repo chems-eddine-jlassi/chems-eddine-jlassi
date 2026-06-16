@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Chams eddine Jlassi
 
-<!--
-**chems-eddine-jlassi/chems-eddine-jlassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Engineer based in Tunis, Tunisia.
+Immediately available — no notice period.
+Open to EU remote contracts and relocation (DE / FR / PT / ES).
 
-Here are some ideas to get you started:
+### What I build
+- Secure enterprise systems: Spring Boot · Spring Security · OAuth2 · PKCE · MFA
+- Reactive frontends: Angular 17+ · TypeScript · RxJS · NgRx
+- Cloud-native: Docker · Kubernetes · Helm · GitLab CI/CD · Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Enterprise experience
+- **Lufthansa / BTU** — Travel Agent Desktop serving 1,200+ agents
+- **Metzler Bank** — Legacy desktop to Spring Boot + Angular migration
+- **Dukhan Bank** — IBM MobileFirst → Spring Gateway security migration
+
+### Certifications
+AWS Practitioner · GitLab Associate · Scrum Master · Scrum Foundation Professional
+
+### Languages
+Arabic (native) · French (B2) · English (C1)
+
+### Contact
+Email: chems.eddine.jlassi.pro@gmail.com
+LinkedIn: linkedin.com/in/chams-jlassi
+GitLab: gitlab.com/chamsi
